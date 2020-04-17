@@ -30,7 +30,7 @@ education:
   - course: PhD in Computer Science
     institution: University College Dublin, Ireland
     year: 2020
-  - Visiting Scholar, Institute for Genomics and Bioinformatics
+  - Visiting Scholar: Institute for Genomics and Bioinformatics
     institution: University of California, Irvine, US
   - course: BSc in Computer Science
     institution: University of Catania, Italy
