@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Deep Learning and Bioinformatics
+role: PhD Candidate  Deep Learning and Bioinformatics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://ucdcs-research.ucd.ie/researchpostgrad/mirko-torrisi/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning applications, mobile computing and programmable matter.
 
 interests:
 - Machine Learning
@@ -30,8 +30,9 @@ education:
   - course: PhD in Computer Science
     institution: University College Dublin, Ireland
     year: 2020
-  - Visiting Scholar: Institute for Genomics and Bioinformatics
+  - course: Visiting Scholar
     institution: University of California, Irvine, US
+    year: 2018
   - course: BSc in Computer Science
     institution: University of Catania, Italy
     year: 2015
@@ -41,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:torrisimirko@yahoo.comg".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:torrisimirko@yahoo.comg".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Mirko_Torrisi
@@ -73,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mirko Torrisi is a PhD Candidate at the School of Computer Science at University College Dublin, Ireland. He is advised by Dr. Gianluca Pollastri for his PhD project about Predicting Protein Structural Annotations by Deep and Shallow Learning. His research interests include Protein Structure Prediction, and Omics applications more broadly. He is attracted by the potential of Machine Learning and Deep Learning to make sense of large omics data to further expand human knowledge.
