@@ -8,7 +8,7 @@ abstract: "Predicting the three-dimensional structure of proteins is a long-stan
 featured: false
 publication: "*Amino Acids*"
 tags: ["Protein structure prediction", "Deep learning", "Solvent accessibility", "Evolutionary information"]
-url_pdf: "https://doi.org/10.1007/s00726-019-02767-6"
+url_pdf: "https://rdcu.be/bNlXS"
 doi: "10.1007/s00726-019-02767-6"
 ---
 

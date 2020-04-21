@@ -8,7 +8,7 @@ abstract: "This chapter aims to introduce to the specifics of protein structure 
 featured: false
 publication: "*Essentials of Bioinformatics, Volume I: Understanding Bioinformatics: Genes to Proteins*"
 tags: ["Secondary structure prediction", "Contact map prediction", "Protein structure annotations", "Solvent accessibility prediction", "Torsional angles prediction"]
-url_pdf: "https://doi.org/10.1007/978-3-030-02634-9_10"
+url_pdf: "https://www.researchgate.net/publication/332048741_Protein_Structure_Annotations"
 doi: "10.1007/978-3-030-02634-9_10"
 ---
 
