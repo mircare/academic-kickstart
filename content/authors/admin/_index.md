@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include machine learning applications, bioinformatics and deep learning.
 
 interests:
-- Machine Learning
 - Deep Learning
 - Bioinformatics
+- Sustainability
+- Climbing
+- Drumming
 
 education:
   courses:
@@ -83,4 +85,4 @@ user_groups:
 - Visitors
 ---
 
-Mirko Torrisi is a PhD Candidate at the School of Computer Science at University College Dublin, Ireland. He is advised by Dr. Gianluca Pollastri for his PhD project about Predicting Protein Structural Annotations by Deep and Shallow Learning. His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to make sense of large omics data and, thus, further expand human knowledge.
+Mirko Torrisi is a PhD Candidate at the School of Computer Science at University College Dublin, Ireland. He is advised by Dr. Gianluca Pollastri for his PhD project about Predicting Protein Structural Annotations by Deep and Shallow Learning. His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to make sense of large omics data and, thus, expand human knowledge.
