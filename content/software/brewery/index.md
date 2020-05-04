@@ -4,7 +4,7 @@ summary: "State-of-the-art ab initio prediction  of 1D protein structure annotat
 date: 2019-11-01
 authors: ["Mirko Torrisi", "Gianluca Pollastri"]
 tags: ["Protein Structure Prediction", "Deep learning", "Secondary Structure", "Solvent Accessibility", "Structural Motifs", "Contact Density"]
-categories: "Predictor, Bioinformatics"
+categories: ["Predictor", "Bioinformatics"]
 share: true
 
 links:

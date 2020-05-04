@@ -4,7 +4,7 @@ summary: "Fast, state-of-the-art ab initio prediction of protein secondary struc
 date: 2018-03-01
 authors: ["Mirko Torrisi", "Manaz Kaleel", "Gianluca Pollastri"]
 tags: ["Protein Structure Prediction", "Deep learning", "Secondary Structure"]
-categories: "Predictor, Bioinformatics"
+categories: ["Predictor", "Bioinformatics"]
 share: true
 
 links:
