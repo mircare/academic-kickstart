@@ -35,7 +35,7 @@ education:
   - course: Visiting Scholar
     institution: University of California, Irvine, US
     year: 2018
-  - course: BSc in Computer Science
+  - course: BSc in Informatics
     institution: University of Catania, Italy
     year: 2015
 
@@ -85,4 +85,6 @@ user_groups:
 - Visitors
 ---
 
-Mirko Torrisi is a PhD Candidate at the School of Computer Science at University College Dublin, Ireland. He is advised by Dr. Gianluca Pollastri for his PhD project about Predicting Protein Structural Annotations by Deep and Shallow Learning. His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to make sense of large omics data and, thus, expand human knowledge.
+Mirko Torrisi is a PhD Candidate at the School of Computer Science at University College Dublin, Ireland. He is advised by Dr. Gianluca Pollastri for his PhD project about ``Predicting Protein Structural Annotations by Deep and Shallow Learning``. He visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. He has a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
+
+His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to make sense of large omics data and, thus, expand human knowledge. Also, he is passionated about casual drumming, cycling and climbing.
