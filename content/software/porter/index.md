@@ -1,6 +1,6 @@
 ---
 title: "Porter"
-summary: "State-of-the-art ab initio prediction of protein secondary structure in 3 and 8 classes"
+summary: "State-of-the-art ab initio prediction of protein secondary structure"
 subtitle: "State-of-the-art ab initio prediction of protein secondary structure"
 date: 2018-03-01
 authors: ["Mirko Torrisi", "Manaz Kaleel", "Gianluca Pollastri"]
