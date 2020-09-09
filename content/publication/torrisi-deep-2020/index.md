@@ -8,7 +8,7 @@ abstract: "Protein Structure Prediction is a central topic in Structural Bioinfo
 featured: false
 publication: "*Computational and Structural Biotechnology Journal*"
 tags: ["Machine learning", "Protein structure prediction", "Deep learning"]
-url_pdf: "http://www.sciencedirect.com/science/article/pii/S2001037019304441"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S2001037019304441"
 doi: "10.1016/j.csbj.2019.12.011"
 ---
 
