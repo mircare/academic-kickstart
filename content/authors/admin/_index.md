@@ -59,9 +59,6 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/AAC-8105-2019/
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Mirko_Torrisi
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Mirko_Torrisi
