@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist  Machine Learning
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
