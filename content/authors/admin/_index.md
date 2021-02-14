@@ -10,12 +10,15 @@ authors:
 superuser: true
 
 # Role/position
+<<<<<<< HEAD
 role: Research Scientist  Bristol Myers Squibb
+=======
+role: Research Scientist
+>>>>>>> 671b9b21307dca791518b61fa387812e7dfbe7c3
 
 # Organizations/Affiliations
 organizations:
-- name: University College Dublin
-  url: "https://ucdcs-research.ucd.ie/researchpostgrad/mirko-torrisi/"
+- name: Bristol Myers Squibb
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning applications, bioinformatics and deep learning.
@@ -32,6 +35,7 @@ education:
   - course: PhD in Computer Science
     institution: University College Dublin, Ireland
     year: 2020
+    link: https://ucdcs-research.ucd.ie/researchpostgrad/mirko-torrisi/
   - course: Visiting Scholar
     institution: University of California, Irvine, US
     year: 2018
@@ -59,9 +63,6 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/AAC-8105-2019/
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Mirko_Torrisi
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Mirko_Torrisi
@@ -87,4 +88,4 @@ user_groups:
 
 Mirko Torrisi is a Research Scientist at Celgene-Bristol Myers Squibb in Seville, Spain. He did his PhD at the School of Computer Science at University College Dublin, Ireland. He was advised by Dr. Gianluca Pollastri for his PhD project about *Predicting Protein Structural Annotations by Deep and Shallow Learning*. He visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. He has a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
 
-His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to make sense of large omics data and, thus, expand human knowledge. He is also passionate about topics related to sustainability, and a casual drummer, cycler and climber.
+His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to make sense of large omics data and, thus, expand human knowledge. He is also passionate about topics related to sustainability, and a casual drummer, climber and cycler.
