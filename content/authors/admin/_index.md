@@ -10,11 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-<<<<<<< HEAD
 role: Research Scientist  Bristol Myers Squibb
-=======
-role: Research Scientist
->>>>>>> 671b9b21307dca791518b61fa387812e7dfbe7c3
 
 # Organizations/Affiliations
 organizations:
@@ -63,6 +59,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/AAC-8105-2019/
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Mirko_Torrisi
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Mirko_Torrisi
