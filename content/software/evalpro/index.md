@@ -1,7 +1,7 @@
 ---
 title: "EVALpro"
 summary: "Evaluate the accuracy of a profile-based predictor as a function of the max cosine similarity between training and test profiles."
-subtitle: "Fair comparison of the predictors on equally hard or easy examples."
+subtitle: "Fair visual evaluation of profile-based predictors"
 date: 2020-08-01
 authors: ["Gregor Urban", "Mirko Torrisi", "Christophe Magnan", "Gianluca Pollastri", "Pierre Baldi"]
 tags: ["Protein Structure Prediction", "Deep learning", "Evolutionary information", "Evaluation protocols", "Profile-based prediction", "Secondary Structure", "Solvent Accessibility", "Structural Motifs", "Contact Density"]
