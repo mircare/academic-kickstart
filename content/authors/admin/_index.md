@@ -85,6 +85,6 @@ user_groups:
 - Visitors
 ---
 
-Mirko Torrisi is a Research Scientist at Celgene-Bristol Myers Squibb in Seville, Spain. He did his PhD at the School of Computer Science at University College Dublin, Ireland. He was advised by Dr. Gianluca Pollastri for his PhD project about *Predicting Protein Structural Annotations by Deep and Shallow Learning*. He visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. He has a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
+Mirko Torrisi is a Machine Learning Researcher at Celgene-Bristol Myers Squibb in Seville, Spain. He worked on *Predicting Protein Structural Annotations by Deep and Shallow Learning*, during his PhD with Dr. Gianluca Pollastri at the School of Computer Science at University College Dublin, Ireland. He visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. He has a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
 
-His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to make sense of large omics data and, thus, expand human knowledge. He is also passionate about topics related to sustainability, and a casual drummer, climber and cycler.
+His research interests include Protein Structure Prediction, and Omics applications more broadly. He is profoundly attracted to the potential of Machine Learning and Deep Learning to interpret ever growing omics data and, thus, expand human knowledge. He is also passionate about topics related to sustainability, and a casual drummer, climber and cycler.
