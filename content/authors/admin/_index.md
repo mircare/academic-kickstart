@@ -49,7 +49,7 @@ social:
 #  link: 'mailto:mail@mirkotorrisi.com' #contact  # For a direct email link, use "mailto:mail@mirkotorrisi.com".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=atyotuMAAAAJ
+  link: https://scholar.google.com/citations?user=QW7-X8oAAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/mircare
