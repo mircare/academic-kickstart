@@ -14,7 +14,7 @@ role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Bristol Myers Squibb
+- name: Bristol-Myers Squibb
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning applications, bioinformatics and deep learning.
