@@ -50,15 +50,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=QW7-X8oAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mircare
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0003-3016-3655
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/AAC-8105-2019/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3016-3655
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/mircare
 #- icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/Mirko_Torrisi
@@ -85,6 +85,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Machine Learning Researcher at Celgene-Bristol Myers Squibb in Seville, Spain. I focused on *Predicting Protein Structural Annotations by Deep and Shallow Learning* during my PhD with Dr. Gianluca Pollastri at University College Dublin, Ireland. I visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. I hold a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
+I am a deep learning Researcher at Bristol Myers Squibb in Seville, Spain. My research interests include protein structure prediction, molecular interactions, and omics applications more broadly. I am profoundly attracted to the potential of representation learning to interpret ever growing omics data and, thus, expand human knowledge.
 
-My research interests include Protein Structure Prediction, Molecular Interactions, and Omics applications more broadly. I am profoundly attracted to the potential of Representation Learning to interpret ever growing omics data and, thus, expand human knowledge. I am also passionate about topics related to sustainability, and a casual drummer, climber and cycler.
+I focused on *Predicting Protein Structural Annotations by Deep and Shallow Learning* during my PhD with Dr. Gianluca Pollastri at University College Dublin, Ireland. I visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. I hold a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
+
+I am passionate about topics related to sustainability, a casual drummer, climber and cycler.
