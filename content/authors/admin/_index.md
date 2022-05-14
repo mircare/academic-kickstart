@@ -87,6 +87,6 @@ user_groups:
 
 I am a deep learning Researcher at Bristol Myers Squibb in Seville, Spain. My research interests include protein structure prediction, molecular interactions, and omics applications more broadly. I am profoundly attracted to the potential of representation learning to interpret ever growing omics data and, thus, expand human knowledge.
 
-I focused on *Predicting Protein Structural Annotations by Deep and Shallow Learning* during my PhD with Dr. Gianluca Pollastri at University College Dublin, Ireland. I visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. I hold a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
+During my PhD with Dr. Gianluca Pollastri, I focused on *Predicting Protein Structural Annotations by Deep and Shallow Learning* at University College Dublin, Ireland. I visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. I hold a BSc in Informatics with highest honor from Università degli Studi di Catania, Italy.
 
-I am passionate about topics related to sustainability, a casual drummer, climber and cycler.
+Besides my research, I am also passionate about topics related to sustainability, a casual drummer, climber and cycler.
