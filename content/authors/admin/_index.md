@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=QW7-X8oAAAAJ&hl
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/AAC-8105-2019/
+  link: https://www.webofscience.com/wos/author/rid/AAC-8105-2019
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3016-3655
