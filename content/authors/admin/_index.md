@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Scientist
+role: Senior AI Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Bristol-Myers Squibb
+- name: Openchip
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning applications, bioinformatics and deep learning.
+bio: My research interests include machine learning applications, bioinformatics and representation learning.
 
 interests:
 - Deep Learning
@@ -85,8 +85,8 @@ user_groups:
 - Visitors
 ---
 
-I am a deep learning researcher at Bristol Myers Squibb in Barcelona, Spain, with a primary focus on characterizing molecular interactions, and omics data through the application of deep learning techniques. I am deeply fascinated by the potential of representation learning to decipher the continually expanding omics data, thereby advancing our understanding of human knowledge.
+I am a deep learning researcher at OpenChip in Barcelona, Spain. Previously, I focused on characterizing molecular interactions, and omics data at Bristol Myers Squibb through the application of deep learning techniques. I am deeply fascinated by the potential of representation learning to decipher the continually expanding omics data, thereby advancing our understanding of human knowledge.
 
 During my PhD with Dr. Gianluca Pollastri, I focused on *Predicting Protein Structural Annotations by Deep and Shallow Learning* at University College Dublin, Ireland. I visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. I hold a BSc in Informatics with the highest honour from Università degli Studi di Catania, Italy.
 
-Beyond my research endeavours, I am also passionate about topics related to sustainability, and enjoy casual drumming, climbing, and cycling.
+Beyond my research endeavours, I am also passionate about topics related to sustainability, and enjoy hiking, snowboarding, and cycling.
