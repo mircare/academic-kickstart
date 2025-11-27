@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=QW7-X8oAAAAJ&hl
 - icon: publons
   icon_pack: ai
-  link: https://www.webofscience.com/wos/author/rid/AAC-8105-2019
+  link: https://www.webofscience.com/wos/author/record/ORJ-9618-2025
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3016-3655
