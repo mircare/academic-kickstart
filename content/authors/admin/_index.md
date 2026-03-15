@@ -24,7 +24,7 @@ interests:
 - Bioinformatics
 - Sustainability
 - Climbing
-- Drumming
+- Snowboarding
 
 education:
   courses:
@@ -85,8 +85,8 @@ user_groups:
 - Visitors
 ---
 
-I am a deep learning researcher at OpenChip in Barcelona, Spain. Previously, I focused on characterizing molecular interactions, and omics data at Bristol Myers Squibb through the application of deep learning techniques. I am deeply fascinated by the potential of representation learning to decipher the continually expanding omics data, thereby advancing our understanding of human knowledge.
+I am the technical lead for Sustainable AI at OpenChip in Barcelona, where I drive sustainable AI initiatives, maintaining a holistic perspective while leading the definition and assessment of resource-aware solutions. Previously, I focused on characterizing molecular interactions and omics data at Bristol Myers Squibb through the application of deep learning techniques. I am deeply fascinated by the potential of representation learning to effectively decipher the continually expanding body of human knowledge and, in turn, advance it.
 
 During my PhD with Dr. Gianluca Pollastri, I focused on *Predicting Protein Structural Annotations by Deep and Shallow Learning* at University College Dublin, Ireland. I visited Dr. Pierre Baldi's lab at the University of California, Irvine in 2018. I hold a BSc in Informatics with the highest honour from Università degli Studi di Catania, Italy.
 
-Beyond my research endeavours, I am also passionate about topics related to sustainability, and enjoy hiking, snowboarding, and cycling.
+Beyond my research endeavours, I am also passionate about topics related to environmental sustainability, and enjoy hiking, snowboarding, and cycling.
